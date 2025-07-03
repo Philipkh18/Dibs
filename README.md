@@ -13,7 +13,7 @@ Dibs is a web-based marketplace tailored for college students to buy, sell, and 
 
 ## Why Dibs
 
-College students often leave behind usable furniture, clothes, and supplies due to time constraints, lack of storage, or logistics. Facebook groups and generic platforms are fragmented and inefficient. CampusLoop centralizes and optimizes this exchange, helping students:
+College students often leave behind usable furniture, clothes, and supplies due to time constraints, lack of storage, or logistics. Facebook groups and generic platforms are fragmented and inefficient. Dibs centralizes and optimizes this exchange, helping students:
 
 - Save money furnishing dorms or apartments
 - Offload unwanted items before moving
