@@ -11,7 +11,7 @@ CampusLoop is a web-based marketplace tailored for college students to buy, sell
 - Seamless experience for students moving out or graduating
 - Environmentally friendly alternative to bulk waste disposal
 
-## Why CampusLoop
+## Why Dibs
 
 College students often leave behind usable furniture, clothes, and supplies due to time constraints, lack of storage, or logistics. Facebook groups and generic platforms are fragmented and inefficient. CampusLoop centralizes and optimizes this exchange, helping students:
 

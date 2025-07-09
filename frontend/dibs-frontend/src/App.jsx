@@ -1,13 +1,15 @@
-import { useState } from 'react'
-import './App.css'
+import { useState } from "react";
+import Home from "./pages/Home.jsx";
+import "./App.css";
 
 function App() {
-
   return (
     <>
-    <h1>Hello there</h1>
+      <div class="">
+        <Home></Home>
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
