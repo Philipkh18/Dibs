@@ -7,11 +7,11 @@ import Button from "@mui/material/Button";
 export default function Home() {
   return (
     <>
-      <div className="h-1000">
+      <div>
         <NavBar />
         <div
-          id="hero"
-          className="flex h-screen flex justify-center items-center text-white-black"
+          id="home"
+          className="flex h-screen flex justify-center items-center text-black"
         >
           <div className="text-center mb-20">
             <h1 className="text-9xl">
@@ -43,7 +43,7 @@ export default function Home() {
                   disableUnderline: true,
                   sx: {
                     borderRadius: "30px",
-                    backgroundColor: "gray",
+                    backgroundColor: "white",
                     color: "black",
                     px: 2,
                     height: "56px",
@@ -79,6 +79,18 @@ export default function Home() {
             </Box>
           </div>
         </div>
+        
+        <div id='About' className="flex h-2/12 flex justify-center items-center text-black bg-black">
+          <h1>This is the about section</h1>
+        </div>
+
+        <div id="Developers"></div>
+
+        <div id="Why"></div>
+
+        <div id="FAQ"></div>
+
+
       </div>
     </>
   );
