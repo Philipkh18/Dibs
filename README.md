@@ -1,6 +1,6 @@
 # Dibs
 
-CampusLoop is a web-based marketplace tailored for college students to buy, sell, and trade furniture, clothing, and dorm essentials—especially during move-out and graduation seasons. The platform is designed to streamline peer-to-peer exchanges within college communities, reducing waste and helping students save money.
+Dibs is a web-based marketplace tailored for college students to buy, sell, and trade furniture, clothing, and dorm essentials—especially during move-out and graduation seasons. The platform is designed to streamline peer-to-peer exchanges within college communities, reducing waste and helping students save money.
 
 ## Features
 
@@ -13,7 +13,7 @@ CampusLoop is a web-based marketplace tailored for college students to buy, sell
 
 ## Why Dibs
 
-College students often leave behind usable furniture, clothes, and supplies due to time constraints, lack of storage, or logistics. Facebook groups and generic platforms are fragmented and inefficient. CampusLoop centralizes and optimizes this exchange, helping students:
+College students often leave behind usable furniture, clothes, and supplies due to time constraints, lack of storage, or logistics. Facebook groups and generic platforms are fragmented and inefficient. Dibs centralizes and optimizes this exchange, helping students:
 
 - Save money furnishing dorms or apartments
 - Offload unwanted items before moving
