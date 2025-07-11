@@ -1,7 +1,12 @@
+import SignIn from "../components/SignIn";
+
+
 export default function login() {
   return (
     <>
-      <h1>This is the login page</h1>
+      <div className="flex bg-black justify-center h-screen py-40">
+        <SignIn/>
+      </div>
     </>
   );
 }

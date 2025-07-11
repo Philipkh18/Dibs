@@ -12,7 +12,7 @@ function App() {
     {/* Browser router is for easy-to-read URL's */}
       <BrowserRouter>
         <Routes>
-          <Route path="/home" element={<Home />}/>;
+          <Route path="/" element={<Home />}/>;
           <Route path="/login" element={<Login />}/>;
           <Route path="/profile" element={<Profile />}/>
         </Routes>
