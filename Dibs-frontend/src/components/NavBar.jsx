@@ -7,27 +7,27 @@ export default function NavBar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="w-full sticky top-0 z-50 bg-gradient-to-b from-black/20 to-transparent py-2 backdrop-blur-lg">
+    <nav className="w-full sticky top-0 z-50 bg-gradient-to-b from-black/20 to-black/10 py-2 backdrop-blur-lg">
       <div className="max-w-7xl mx-auto flex items-center justify-between px-4">
         {/* Logo */}
-        <a href="/">
+        <a href="#hero">
           <img
-            className="h-14 w-auto sm:h-12 md:h-25"
+            className="h-14 w-auto sm:h-12 md:h-30 lg:h-30"
             src="/dibs_logo.png"
             alt="dibs-logo"
           />
         </a>
 
         {/* Desktop Links */}
-        <ul className="hidden md:flex flex-row items-center gap-8 text-white/60 font-semibold text-sm">
+        <ul className="hidden md:flex flex-row items-center gap-20 text-white/60 font-semibold text-sm">
           <li>
             <a className="hover:text-white" href="#About">
               About us
             </a>
           </li>
           <li>
-            <a className="hover:text-white" href="#Developers">
-              Developers
+            <a className="hover:text-white" href="#HowItWorks">
+              How It Works
             </a>
           </li>
           <li>
@@ -77,7 +77,7 @@ export default function NavBar() {
 
       {/* Mobile Menu Dropdown */}
       {isOpen && (
-        <div className="md:hidden flex flex-col items-center bg-black/80 text-white/70 font-semibold py-4 gap-4">
+        <div className="md:hidden flex flex-col items-center bg-gradient-to-b from-black/10 to-transparent backdrop-blur-lg text-white/70 font-semibold py-4 gap-4">
           <a onClick={() => setIsOpen(false)} href="#About">
             About us
           </a>

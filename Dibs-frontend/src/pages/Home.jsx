@@ -6,6 +6,7 @@ import Button from "@mui/material/Button";
 
 import HomeHero from "../section_components/Home/HomeHero.jsx";
 import About from "../section_components/Home/about.jsx";
+import HowItWorks from "../section_components/Home/HowItWorks.jsx";
 
 export default function Home() {
   return (
@@ -14,9 +15,9 @@ export default function Home() {
         <NavBar />
         <HomeHero />
         <About/>
+        <HowItWorks/>
+        
 
-
-        <div id="Developers"></div>
 
         <div id="Why"></div>
 

@@ -1,17 +1,15 @@
-
 import Box from "@mui/material/Box";
 import TextField from "@mui/material/TextField";
 import Button from "@mui/material/Button";
-
 
 export default function HomeHero() {
   return (
     <>
       <div
-        id="home"
-        className="flex h-[90vh] flex justify-center items-center text-black"
+        id="hero"
+        className="flex h-[80vh] flex justify-center items-center text-black"
       >
-        <div className="text-center mb-20">
+        <div className="text-center -mb-30">
           <h1 className="text-9xl text-white">
             Find it. <span className="bg-[#e6b53f] text-black">Dibs</span> it.
           </h1>

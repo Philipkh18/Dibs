@@ -21,11 +21,12 @@ export default function About() {
       <div className="flex flex-col md:w-1/2 gap-6 items-center">
         {/* Marketplace Card */}
         <div className="bg-[#e6b53f] rounded-3xl p-6 w-full max-w-md text-black">
-          <h2 className="text-xl font-semibold">Dibs Marketplace</h2>
+          <h2 className="text-xl font-semibo ld">Dibs Marketplace</h2>
           <p className="mt-2">
             Discover a trusted space where students can easily exchange
-            textbooks, furniture, electronics, and more. Dibs connects you
-            with your campus so you can <span className="font-medium">save money</span>,{" "}
+            textbooks, furniture, electronics, and more. Dibs connects you with
+            your campus so you can{" "}
+            <span className="font-medium">save money</span>,{" "}
             <span className="font-medium">reduce waste</span>, and{" "}
             <span className="font-medium">support fellow students</span>.
           </p>
@@ -35,9 +36,9 @@ export default function About() {
         <div className="bg-[#e6b53f] rounded-3xl p-6 w-full max-w-md text-black">
           <h2 className="text-xl font-semibold">Dibs Lease</h2>
           <p className="mt-2">
-            Browse available sublets, chat with potential roommates, and
-            secure off-campus housing—all in one place. Dibs Lease simplifies
-            the housing hunt by connecting students{" "}
+            Browse available sublets, chat with potential roommates, and secure
+            off-campus housing—all in one place. Dibs Lease simplifies the
+            housing hunt by connecting students{" "}
             <span className="font-medium">directly</span> and{" "}
             <span className="font-medium">instantly</span>.
           </p>
